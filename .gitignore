@@ -7,3 +7,5 @@ docs/versions/devel-checklist.md
 
 # go build artifacts
 cmd/security-baseline
+config.bat
+node_modules
